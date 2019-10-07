@@ -7,7 +7,6 @@ For this assignment you'll create server that allows user sign-up, and enforces
 access to routes based on user identity.
 
 ## Details
-
 ### Models
 
 You need to create two models for this exercise:
